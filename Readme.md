@@ -1,7 +1,7 @@
 # Личный проект «Девайс»
 
 * Студент: [Азат Озганбаев](https://up.htmlacademy.ru/htmlcss/24/user/115024).
-* Наставник: `Артем Ильченко`(https://htmlacademy.ru/profile/id375383 ).
+* Наставник: `Артем Ильченко ,возраст:23`(https://htmlacademy.ru/profile/id375383 ).
 
 ---
 
